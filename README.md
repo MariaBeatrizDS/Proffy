@@ -31,4 +31,4 @@ Linguagens: HTML, CSS, SQLite e JavaScript.
 Nível: Quando nos inscrevemos na NLW #2 respondemos algumas perguntas e o nível é escolhido apartir desse teste. Imagino que seja entre básico e intermediário.
 
 
-#####Obs.: O back-end/banco de dados não foi finalizado por problemas com a data.
+##### Obs.: O back-end/banco de dados não foi finalizado por problemas com a data.
