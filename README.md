@@ -32,3 +32,5 @@ Nível: Quando nos inscrevemos na NLW #2 respondemos algumas perguntas e o níve
 
 
 ##### Obs.: O back-end/banco de dados não foi finalizado por problemas com a data.
+
+##ALTERAÇÃO EXERCICIO LEURO
